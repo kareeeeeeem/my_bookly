@@ -61,6 +61,6 @@ You can see the screenshots of the application from [screenshots](#screenshots) 
 
 ## Screenshots
 
-![](screenshots/screen(2).png)
 ![](screenshots/screen(1).png)
+![](screenshots/screen(2).png)
 
